@@ -1,0 +1,44 @@
+*{
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    color: white;
+    font-size: 26px;
+}
+body
+{
+    background-image: url(anh3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position:top;
+}
+h1
+{   
+    margin-left: 13%;
+    margin-top: 5%;
+    font-size:50px
+}
+table
+{
+   margin-left: 33%;
+   margin-top: 8%;
+   width: 40%;
+}
+#duong 
+{
+    width: 319px;
+    color: black;
+}
+#am
+{
+    width: 319px;
+    color: black;
+}
+.aa
+{
+    text-align: left;
+}
+.bb
+{
+    text-align: center;
+}
+
+
